@@ -22,7 +22,7 @@ The result of the operation will be displayed in real-time on the screen.
 
 Acknowledgment:
 
-This project was developed as a part of the fourth semester curriculum. Special thanks to the Professor for guidance and support.
+This project was developed as a part of the sixth semester curriculum. Special thanks to the Professor for guidance and support.
 
 Contributing:
 
